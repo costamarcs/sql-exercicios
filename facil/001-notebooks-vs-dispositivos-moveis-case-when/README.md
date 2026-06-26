@@ -2,13 +2,13 @@
 
 ## Problema
 
-O objetivo do exercício é entender o meio de utilização dos clientes para vizualizar as notícías do site da  NY Times, solicitando a criação de categorias na qual "tablet" e "phone" fazem parte da categoria "mobile" e "laptops" fazem parte da categoria "laptop".
+O objetivo do exercÃ­cio Ã© entender o meio de utilizaÃ§Ã£o dos clientes para vizualizar as notÃ­cias do site da NY Times, solicitando a criaÃ§Ã£o de categorias na qual "tablet" e "phone" fazem parte da categoria "mobile" e "laptops" fazem parte da categoria "laptop".
 
-## Estratégia 
+## EstratÃ©gia 
 
-A solução foi realizada com apenas 1 etapa essencial:
+A soluÃ§Ã£o foi realizada com apenas 1 etapa essencial:
 
-### 1. Utilização de case-when na criação das categorias e a função count para contabilização dos itens.
+### 1. UtilizaÃ§Ã£o de case-when na criaÃ§Ã£o das categorias e a funÃ§Ã£o count para contabilizaÃ§Ã£o dos itens.
 
 ## Conceitos Utilizados
 
@@ -16,4 +16,4 @@ A solução foi realizada com apenas 1 etapa essencial:
 
 ## Aprendizados
 
-* Utilização de funções de agregação com estruturas lógicas de condicionamento.
+* UtilizaÃ§Ã£o de funÃ§Ãµes de agregaÃ§Ã£o com estruturas lÃ³gicas de condicionamento.
