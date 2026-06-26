@@ -2,7 +2,7 @@
 
 ## Problema
 
-O objetivo do exercício é entender o meio de utilização dos clientes para vizualizar as notícias do site da NY Times, solicitando a criação de categorias na qual "tablet" e "phone" fazem parte da categoria "mobile" e "laptops" fazem parte da categoria "laptop".
+O objetivo do exercício é entender o meio de utilização dos clientes para vizualizar as noticias do site da NY Times, solicitando a criação de categorias na qual "tablet" e "phone" fazem parte da categoria "mobile" e "laptops" fazem parte da categoria "laptop".
 
 ## Estratégia 
 
